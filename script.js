@@ -1,6 +1,6 @@
 const images = [
-  {src:'images/forest.png', cat:'nature', title:'Forest'},
-  {src:'images/lake.png', cat:'nature', title:'Lake'},
+  {src:'images/', cat:'nature', title:'Forest'},
+  {src:'images/', cat:'nature', title:'Lake'},
   {src:'images/dog.png', cat:'animals', title:'Dog'},
   {src:'images/beach.png', cat:'travel', title:'Beach'}
 ];
