@@ -1,6 +1,6 @@
 const images = [
-  {src:'images/', cat:'nature', title:'Forest'},
-  {src:'images/', cat:'nature', title:'Lake'},
+  {src:'images/Angle.png', cat:'nature', title:'Forest'},
+  {src:'images/lake2.png', cat:'nature', title:'Lake'},
   {src:'images/dog.png', cat:'animals', title:'Dog'},
   {src:'images/beach.png', cat:'travel', title:'Beach'}
 ];
@@ -28,3 +28,4 @@ buttons.forEach(btn => {
 });
 
 render();
+
